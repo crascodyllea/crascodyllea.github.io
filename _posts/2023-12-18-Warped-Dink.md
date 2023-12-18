@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Random Amplitude Bass Screeches
+title: Warped Dinks
 ---
 
 March 2023, 25MB. [Downloadable via MediaFire](https://www.mediafire.com/file/nq1kricjqlle29k/Warped_Dinks.zip/file).
