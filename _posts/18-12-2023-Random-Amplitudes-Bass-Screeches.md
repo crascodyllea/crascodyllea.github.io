@@ -11,3 +11,4 @@ This patch was made with Vital's random amplitudes phase distortion mode. The ma
 The patch isn't great, so I haven't put it up for download, but most of the sounds are usable. I'll revisit this idea soon with noise resampling and comb filters in the wavetable editor to create more uniformly noisy profiles and avoid mud introduced by resynthesising the OSC2 wavetable that becomes intrusive when the RandAmp position is being modulated only subtly.
 
 ![A screenshot of the patch’s Voice and Effects screens](/assets/random_amplitude_bass_screeches_screenshot.jpg)
+\[ID: A screenshot of the patch’s Voice and Effects screens in Vital\]
